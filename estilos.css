@@ -1,3 +1,10 @@
 body {
     background-color: aquamarine;
+    text-align: center;
+}
+
+header {
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
